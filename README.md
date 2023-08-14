@@ -1,10 +1,10 @@
-TRACMASS v2022.01
+TRACMASS v2023
 =====================
 [![GitHubAction](https://github.com/AitorAldama/Tracmass/workflows/Build%20and%20Test/badge.svg)](https://github.com/AitorAldama/Tracmass/workflows/Build%20and%20Test/badge.svg)  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4337926.svg)](https://doi.org/10.5281/zenodo.4337926)
 
 ![Social logo](https://github.com/TRACMASS/tracmass.github.io/blob/version7/images/headers_footer/fig_socialimage.png)
 
-**TRACMASS** is a Lagrangian trajectory code for ocean and atmospheric general circulation models. The code makes it possible to estimate water paths, Lagrangian stream functions (barotropic, overturning, etc.), exchange times, etc. **TRACMASS** has been used in studies of the global ocean circulation, of sea circulation in the Baltic Sea, the Mediterranean Sea and in coastal regions.
+**TRACMASS** is a Lagrangian trajectory code for ocean and atmospheric general circulation models. The code makes it possible to estimate water paths, Lagrangian stream functions (barotropic, overturning, etc.), exchange times, etc.
 
 The code is written in FORTRAN 90 with modules and runs on UNIX platforms such as MAC OS X and Linux.
 
@@ -12,12 +12,6 @@ The code is written in FORTRAN 90 with modules and runs on UNIX platforms such a
 
 For more information check our website: https://www.tracmass.org/.
 
-Documentation
-=============
-
-You can find documentation about TRACMASS in
-
-https://www.tracmass.org/docs
 
 Quickstart
 ==========
